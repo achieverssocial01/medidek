@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "538576980241",
+    "project_id": "android-auth-4f113",
+    "storage_bucket": "android-auth-4f113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538576980241:android:18cce404b830c42447e4b0",
+        "android_client_info": {
+          "package_name": "com.androidauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc6QAohh7SP4xX_jFHnH6_jcw29Srj_pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538576980241:android:410d931b40616b0347e4b0",
+        "android_client_info": {
+          "package_name": "com.listnative04"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc6QAohh7SP4xX_jFHnH6_jcw29Srj_pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
